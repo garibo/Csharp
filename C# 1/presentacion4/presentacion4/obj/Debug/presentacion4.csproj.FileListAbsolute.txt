@@ -1,0 +1,6 @@
+C:\Users\Kevin\Desktop\c sharp\presentacion4\presentacion4\bin\Debug\presentacion4.exe.config
+C:\Users\Kevin\Desktop\c sharp\presentacion4\presentacion4\bin\Debug\presentacion4.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion4\presentacion4\bin\Debug\presentacion4.pdb
+C:\Users\Kevin\Desktop\c sharp\presentacion4\presentacion4\obj\Debug\presentacion4.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\c sharp\presentacion4\presentacion4\obj\Debug\presentacion4.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion4\presentacion4\obj\Debug\presentacion4.pdb

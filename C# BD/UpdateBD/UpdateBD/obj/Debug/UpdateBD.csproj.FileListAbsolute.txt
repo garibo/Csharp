@@ -1,0 +1,8 @@
+C:\Users\Kevin\Desktop\c sharp\C# BD\UpdateBD\UpdateBD\bin\Debug\UpdateBD.exe.config
+C:\Users\Kevin\Desktop\c sharp\C# BD\UpdateBD\UpdateBD\bin\Debug\UpdateBD.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD\UpdateBD\UpdateBD\bin\Debug\UpdateBD.pdb
+C:\Users\Kevin\Desktop\c sharp\C# BD\UpdateBD\UpdateBD\obj\Debug\UpdateBD.Form1.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD\UpdateBD\UpdateBD\obj\Debug\UpdateBD.Properties.Resources.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD\UpdateBD\UpdateBD\obj\Debug\UpdateBD.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\c sharp\C# BD\UpdateBD\UpdateBD\obj\Debug\UpdateBD.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD\UpdateBD\UpdateBD\obj\Debug\UpdateBD.pdb

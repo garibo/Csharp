@@ -1,0 +1,6 @@
+C:\Users\Kevin\Desktop\c sharp\presentacion3\presentacion3\bin\Debug\presentacion3.exe.config
+C:\Users\Kevin\Desktop\c sharp\presentacion3\presentacion3\bin\Debug\presentacion3.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion3\presentacion3\bin\Debug\presentacion3.pdb
+C:\Users\Kevin\Desktop\c sharp\presentacion3\presentacion3\obj\Debug\presentacion3.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\c sharp\presentacion3\presentacion3\obj\Debug\presentacion3.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion3\presentacion3\obj\Debug\presentacion3.pdb

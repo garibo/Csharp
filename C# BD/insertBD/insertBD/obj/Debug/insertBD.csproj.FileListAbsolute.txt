@@ -1,0 +1,8 @@
+C:\Users\Kevin\Desktop\c sharp\C# BD\insertBD\insertBD\bin\Debug\insertBD.exe.config
+C:\Users\Kevin\Desktop\c sharp\C# BD\insertBD\insertBD\bin\Debug\insertBD.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD\insertBD\insertBD\bin\Debug\insertBD.pdb
+C:\Users\Kevin\Desktop\c sharp\C# BD\insertBD\insertBD\obj\Debug\insertBD.Form1.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD\insertBD\insertBD\obj\Debug\insertBD.Properties.Resources.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD\insertBD\insertBD\obj\Debug\insertBD.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\c sharp\C# BD\insertBD\insertBD\obj\Debug\insertBD.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD\insertBD\insertBD\obj\Debug\insertBD.pdb

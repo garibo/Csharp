@@ -1,0 +1,8 @@
+C:\Users\Kevin\Desktop\c sharp\C# BD\DeleteBD\DeleteBD\bin\Debug\DeleteBD.exe.config
+C:\Users\Kevin\Desktop\c sharp\C# BD\DeleteBD\DeleteBD\bin\Debug\DeleteBD.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD\DeleteBD\DeleteBD\bin\Debug\DeleteBD.pdb
+C:\Users\Kevin\Desktop\c sharp\C# BD\DeleteBD\DeleteBD\obj\Debug\DeleteBD.Form1.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD\DeleteBD\DeleteBD\obj\Debug\DeleteBD.Properties.Resources.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD\DeleteBD\DeleteBD\obj\Debug\DeleteBD.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\c sharp\C# BD\DeleteBD\DeleteBD\obj\Debug\DeleteBD.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD\DeleteBD\DeleteBD\obj\Debug\DeleteBD.pdb

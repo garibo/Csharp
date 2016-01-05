@@ -1,0 +1,6 @@
+C:\Users\Kevin\Desktop\c sharp\presentacion8\presentacion8\bin\Debug\presentacion8.exe.config
+C:\Users\Kevin\Desktop\c sharp\presentacion8\presentacion8\bin\Debug\presentacion8.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion8\presentacion8\bin\Debug\presentacion8.pdb
+C:\Users\Kevin\Desktop\c sharp\presentacion8\presentacion8\obj\Debug\presentacion8.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\c sharp\presentacion8\presentacion8\obj\Debug\presentacion8.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion8\presentacion8\obj\Debug\presentacion8.pdb

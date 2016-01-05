@@ -1,0 +1,18 @@
+C:\Users\Kevin\Desktop\c sharp\C# BD\ConsultBD\ConsultBD\bin\Debug\ConsultBD.exe.config
+C:\Users\Kevin\Desktop\c sharp\C# BD\ConsultBD\ConsultBD\bin\Debug\ConsultBD.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD\ConsultBD\ConsultBD\bin\Debug\ConsultBD.pdb
+C:\Users\Kevin\Desktop\c sharp\C# BD\ConsultBD\ConsultBD\obj\Debug\ConsultBD.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\c sharp\C# BD\ConsultBD\ConsultBD\obj\Debug\ConsultBD.Form1.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD\ConsultBD\ConsultBD\obj\Debug\ConsultBD.Properties.Resources.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD\ConsultBD\ConsultBD\obj\Debug\ConsultBD.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\c sharp\C# BD\ConsultBD\ConsultBD\obj\Debug\ConsultBD.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD\ConsultBD\ConsultBD\obj\Debug\ConsultBD.pdb
+C:\Users\Kevin\Desktop\c sharp\C# BD Params\ConsultBD\ConsultBD\bin\Debug\ConsultBD.exe.config
+C:\Users\Kevin\Desktop\c sharp\C# BD Params\ConsultBD\ConsultBD\obj\Debug\ConsultBD.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD Params\ConsultBD\ConsultBD\obj\Debug\ConsultBD.pdb
+C:\Users\Kevin\Desktop\c sharp\C# BD Params\ConsultBD\ConsultBD\bin\Debug\ConsultBD.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD Params\ConsultBD\ConsultBD\bin\Debug\ConsultBD.pdb
+C:\Users\Kevin\Desktop\c sharp\C# BD Params\ConsultBD\ConsultBD\obj\Debug\ConsultBD.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\c sharp\C# BD Params\ConsultBD\ConsultBD\obj\Debug\ConsultBD.Form1.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD Params\ConsultBD\ConsultBD\obj\Debug\ConsultBD.Properties.Resources.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD Params\ConsultBD\ConsultBD\obj\Debug\ConsultBD.csproj.GenerateResource.Cache

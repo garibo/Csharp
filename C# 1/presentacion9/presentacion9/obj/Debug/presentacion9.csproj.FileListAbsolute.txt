@@ -1,0 +1,6 @@
+C:\Users\Kevin\Desktop\c sharp\presentacion9\presentacion9\bin\Debug\presentacion9.exe.config
+C:\Users\Kevin\Desktop\c sharp\presentacion9\presentacion9\bin\Debug\presentacion9.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion9\presentacion9\bin\Debug\presentacion9.pdb
+C:\Users\Kevin\Desktop\c sharp\presentacion9\presentacion9\obj\Debug\presentacion9.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\c sharp\presentacion9\presentacion9\obj\Debug\presentacion9.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion9\presentacion9\obj\Debug\presentacion9.pdb

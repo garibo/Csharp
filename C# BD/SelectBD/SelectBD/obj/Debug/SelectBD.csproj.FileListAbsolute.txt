@@ -1,0 +1,8 @@
+C:\Users\Kevin\Desktop\c sharp\C# BD\SelectBD\SelectBD\bin\Debug\SelectBD.exe.config
+C:\Users\Kevin\Desktop\c sharp\C# BD\SelectBD\SelectBD\bin\Debug\SelectBD.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD\SelectBD\SelectBD\bin\Debug\SelectBD.pdb
+C:\Users\Kevin\Desktop\c sharp\C# BD\SelectBD\SelectBD\obj\Debug\SelectBD.Form1.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD\SelectBD\SelectBD\obj\Debug\SelectBD.Properties.Resources.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD\SelectBD\SelectBD\obj\Debug\SelectBD.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\c sharp\C# BD\SelectBD\SelectBD\obj\Debug\SelectBD.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD\SelectBD\SelectBD\obj\Debug\SelectBD.pdb

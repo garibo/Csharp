@@ -1,0 +1,9 @@
+C:\Users\Kevin\Desktop\c sharp\C# BD\conexionBasica\conexionBasica\bin\Debug\conexionBasica.exe.config
+C:\Users\Kevin\Desktop\c sharp\C# BD\conexionBasica\conexionBasica\bin\Debug\conexionBasica.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD\conexionBasica\conexionBasica\bin\Debug\conexionBasica.pdb
+C:\Users\Kevin\Desktop\c sharp\C# BD\conexionBasica\conexionBasica\obj\Debug\conexionBasica.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\c sharp\C# BD\conexionBasica\conexionBasica\obj\Debug\conexionBasica.Form1.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD\conexionBasica\conexionBasica\obj\Debug\conexionBasica.Properties.Resources.resources
+C:\Users\Kevin\Desktop\c sharp\C# BD\conexionBasica\conexionBasica\obj\Debug\conexionBasica.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\c sharp\C# BD\conexionBasica\conexionBasica\obj\Debug\conexionBasica.exe
+C:\Users\Kevin\Desktop\c sharp\C# BD\conexionBasica\conexionBasica\obj\Debug\conexionBasica.pdb

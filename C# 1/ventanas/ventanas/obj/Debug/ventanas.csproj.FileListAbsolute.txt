@@ -1,0 +1,9 @@
+C:\Users\Kevin\Desktop\c sharp\ventanas\ventanas\bin\Debug\ventanas.exe.config
+C:\Users\Kevin\Desktop\c sharp\ventanas\ventanas\bin\Debug\ventanas.exe
+C:\Users\Kevin\Desktop\c sharp\ventanas\ventanas\bin\Debug\ventanas.pdb
+C:\Users\Kevin\Desktop\c sharp\ventanas\ventanas\obj\Debug\ventanas.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\c sharp\ventanas\ventanas\obj\Debug\ventanas.Form1.resources
+C:\Users\Kevin\Desktop\c sharp\ventanas\ventanas\obj\Debug\ventanas.Properties.Resources.resources
+C:\Users\Kevin\Desktop\c sharp\ventanas\ventanas\obj\Debug\ventanas.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\c sharp\ventanas\ventanas\obj\Debug\ventanas.exe
+C:\Users\Kevin\Desktop\c sharp\ventanas\ventanas\obj\Debug\ventanas.pdb

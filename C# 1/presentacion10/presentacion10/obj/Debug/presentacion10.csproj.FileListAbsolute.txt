@@ -1,0 +1,6 @@
+C:\Users\Kevin\Desktop\c sharp\presentacion10\presentacion10\bin\Debug\presentacion10.exe.config
+C:\Users\Kevin\Desktop\c sharp\presentacion10\presentacion10\bin\Debug\presentacion10.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion10\presentacion10\bin\Debug\presentacion10.pdb
+C:\Users\Kevin\Desktop\c sharp\presentacion10\presentacion10\obj\Debug\presentacion10.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\c sharp\presentacion10\presentacion10\obj\Debug\presentacion10.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion10\presentacion10\obj\Debug\presentacion10.pdb

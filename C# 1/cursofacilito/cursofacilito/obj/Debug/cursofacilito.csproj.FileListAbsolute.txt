@@ -1,0 +1,6 @@
+C:\Users\Kevin\Desktop\c sharp\cursofacilito\cursofacilito\bin\Debug\cursofacilito.exe.config
+C:\Users\Kevin\Desktop\c sharp\cursofacilito\cursofacilito\bin\Debug\cursofacilito.exe
+C:\Users\Kevin\Desktop\c sharp\cursofacilito\cursofacilito\bin\Debug\cursofacilito.pdb
+C:\Users\Kevin\Desktop\c sharp\cursofacilito\cursofacilito\obj\Debug\cursofacilito.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\c sharp\cursofacilito\cursofacilito\obj\Debug\cursofacilito.exe
+C:\Users\Kevin\Desktop\c sharp\cursofacilito\cursofacilito\obj\Debug\cursofacilito.pdb

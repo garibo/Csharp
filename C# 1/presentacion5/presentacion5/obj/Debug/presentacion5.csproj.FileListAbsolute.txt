@@ -1,0 +1,6 @@
+C:\Users\Kevin\Desktop\c sharp\presentacion5\presentacion5\bin\Debug\presentacion5.exe.config
+C:\Users\Kevin\Desktop\c sharp\presentacion5\presentacion5\bin\Debug\presentacion5.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion5\presentacion5\bin\Debug\presentacion5.pdb
+C:\Users\Kevin\Desktop\c sharp\presentacion5\presentacion5\obj\Debug\presentacion5.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\c sharp\presentacion5\presentacion5\obj\Debug\presentacion5.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion5\presentacion5\obj\Debug\presentacion5.pdb

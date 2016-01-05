@@ -1,0 +1,6 @@
+C:\Users\Kevin\Desktop\c sharp\presentacion7\presentacion7\bin\Debug\presentacion7.exe.config
+C:\Users\Kevin\Desktop\c sharp\presentacion7\presentacion7\obj\Debug\presentacion7.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\c sharp\presentacion7\presentacion7\bin\Debug\presentacion7.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion7\presentacion7\bin\Debug\presentacion7.pdb
+C:\Users\Kevin\Desktop\c sharp\presentacion7\presentacion7\obj\Debug\presentacion7.exe
+C:\Users\Kevin\Desktop\c sharp\presentacion7\presentacion7\obj\Debug\presentacion7.pdb
